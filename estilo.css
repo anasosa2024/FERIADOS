@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(206, 224, 224);
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+ul {
+    font-size: large;
+    margin-left: 5%;
+}
+#mes {
+    color: red;
+    text-shadow: 2px 2px 5px silver;
+}
+#subir a {
+    background-color: rgb(244, 132, 132);
+    padding: 5px 5px;
+    color: beige;
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+}
+#subir :hover {
+    color: beige;
+    background-color: rgb(141, 141, 248);
+}
+#feriados {
+    color: blue;
+}
+p {
+    text-align: center;
+    font-size: small;
+    color: brown;
+}
+div {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+#fin {
+    color: red;
+    font-size: x-large;
+}
+#aqui {
+    font-size: x-large;
+}
