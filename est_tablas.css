@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #805fe2 0%,#0cf4f4 100%,#0cf4f4 100%,#0cf4f4 100%,#0cf4f4 101%);
+}
+table {
+    border: 1;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+tr {
+    font-size: 25px;
+    width: 40%;
+}
+td{
+    padding: 10px;
+}
+.titulo {
+    color: #805fe2;
+    background-color: aliceblue;
+}
+.uno {
+    color: black;
+}
+.dos {
+    color: white;
+}
