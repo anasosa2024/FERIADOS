@@ -8,10 +8,12 @@ h1 {
 ul {
     font-size: large;
     margin-left: 5%;
+    margin: 10px;
 }
-#mes {
+.mes {
     color: red;
     text-shadow: 2px 2px 5px silver;
+    margin: 10px;
 }
 #subir a {
     background-color: rgb(244, 132, 132);
@@ -25,7 +27,7 @@ ul {
     color: beige;
     background-color: rgb(141, 141, 248);
 }
-#feriados {
+.feriados {
     color: blue;
 }
 p {

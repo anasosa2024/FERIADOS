@@ -1,28 +1,29 @@
-body {
-    background: linear-gradient(to right, #805fe2 0%,#0cf4f4 100%,#0cf4f4 100%,#0cf4f4 100%,#0cf4f4 101%);
-}
 table {
-    border: 1;
+    border: 3px solid fuchsia;
     text-align: center;
-    display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
+    
 }
 
 tr {
     font-size: 25px;
-    width: 40%;
 }
-td{
+
+td {
     padding: 10px;
 }
+
 .titulo {
     color: #805fe2;
     background-color: aliceblue;
 }
+
 .uno {
-    color: black;
+    background: linear-gradient(to right, #805fe2 0%, #0cf4f4 100%, #0cf4f4 100%, #0cf4f4 100%, #0cf4f4 101%);
 }
+
 .dos {
-    color: white;
+    background: linear-gradient(to right, #7abcff 0%,#60abf8 81%,#dd49d8 100%);
 }
